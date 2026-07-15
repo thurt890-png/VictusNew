@@ -1,0 +1,1 @@
+﻿import React from "react";import { createRoot } from "react-dom/client";const App = ()=> <div style={{fontFamily:"sans-serif",padding:20}}><h1>Victus Frontend</h1><p>Minimal Vite React app</p></div>;createRoot(document.getElementById("root")).render(<App/>);
